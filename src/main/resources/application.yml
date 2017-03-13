@@ -1,0 +1,5 @@
+logging:
+  file: learnSpringSecurity.log
+  level:
+    com.learn: INFO
+    root: INFO
